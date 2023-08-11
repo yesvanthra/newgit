@@ -1,8 +1,8 @@
-# String Splitting with Any Delimiters
+# Get Middle Characters Of The Word
 ![Python](https://img.shields.io/badge/python-3.9+-blue)
 
 
-  <p>A simple Python program to split a string into fields using varying delimiters.</p>
+  <p> A simple Python function to extract the middle characters from a word.</p>
 </div>
 
 ## Table of Contents
@@ -14,25 +14,26 @@
 
 ## Overview
 
-This Python program demonstrates how to split a string into different fields using varying delimiters. The `re` (regular expression) module is used to perform the splitting based on the provided delimiters.
+This Python function extracts the middle characters from a word. It handles both even and odd word lengths to return the appropriate middle character(s).
 
 ## Usage
 
 1. **Prerequisites:** Make sure you have Python installed on your system.
 
-2. **Clone the Repository:** Clone this repository or download the `stringsplitting.py` file.
+2. **Clone the Repository:** Clone this repository or create a new Python file and paste the code.
 
-3. **Run the Program:** Open the `stringsplitting.py` file and find the `stringsplittingwithdelimiter` function. Modify the `text` and `delimiters` arguments to test with different inputs.
+3. **Using the Function:** Use the `getmiddlecharacters` function by passing a word as an argument.
 
-   ```bash
-   python stringsplitting.py
+   ```python
+   result = getmiddlecharacters("bottle")
 
   ## Example
   For example, running the program with the provided input:
 
   ```bash
-  stringsplittingwithdelimiter("sdfkdjsadfsd diweiw;1231:foo", ' ;:')
-  ['sdfkdjsadfsd', 'diweiw', '1231', 'foo']
+  result = getmiddlecharacters("bottle")
+  tt
+
   ```
  ## Contributing
 - <p>Contributions are welcome! If you find any issues or want to improve the program, create an issue or submit a pull request on <a href="https://github.com/yesvanthra/newgit.git">GitHub</a>.</p>
