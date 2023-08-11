@@ -1,4 +1,5 @@
 # newgit
+![Python](https://img.shields.io/badge/python-3.9+-blue)
 * This is a simple Python program that splits a given string into different fields using varying delimiters. It uses the `re` (regular expression) module to perform the splitting based on the provided delimiters.
 <div align="center">
   <h1>String Splitting with Delimiters</h1>
