@@ -10,7 +10,7 @@
 - [Usage](#usage)
 - [Example](#example)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Overview
 
