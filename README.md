@@ -28,7 +28,6 @@ This Python program demonstrates how to split a string into different fields usi
    python stringsplitting.py
 
   ## Example
-
   For example, running the program with the provided input:
 
   ```bash
