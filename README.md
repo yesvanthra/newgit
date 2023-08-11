@@ -34,3 +34,7 @@ This Python program demonstrates how to split a string into different fields usi
   ```bash
   stringsplittingwithdelimiter("sdfkdjsadfsd diweiw;1231:foo", ' ;:')
   ['sdfkdjsadfsd', 'diweiw', '1231', 'foo']
+  ```
+ ## Contributing
+- <p>Contributions are welcome! If you find any issues or want to improve the program, create an issue or submit a pull request on <a href="https://github.com/your-username/your-repo">GitHub</a>.</p>
+ 
