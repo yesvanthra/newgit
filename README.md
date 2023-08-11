@@ -14,7 +14,10 @@
 
 ## Overview
 
-This Python function extracts the middle characters from a word. It handles both even and odd word lengths to return the appropriate middle character(s).
+This Python function calculates and returns the middle character(s) of a word. It works as follows:
+
+- If the word's length is odd, it returns the middle character.
+- If the word's length is even, it returns the middle two characters.
 
 ## Usage
 
@@ -25,16 +28,21 @@ This Python function extracts the middle characters from a word. It handles both
 3. **Using the Function:** Use the `getmiddlecharacters` function by passing a word as an argument.
 
    ```python
-   result = getmiddlecharacters("bottle")
+   getmiddlecharacters("computer")
 
   ## Example
   For example, running the program with the provided input:
 
   ```bash
-  result = getmiddlecharacters("bottle")
-  tt
+  getmiddlecharacters("computer")
+  
 
   ```
+  will result in the output:
+
+   ```bash
+   pu
+   ```
  ## Contributing
-- <p>Contributions are welcome! If you find any issues or want to improve the program, create an issue or submit a pull request on <a href="https://github.com/yesvanthra/newgit.git">GitHub</a>.</p>
+- <p>Contributions are welcome! If you find any issues or want to improve the program, create an issue or submit a pull request on <a href="https://github.com/yesvanthra/The_Middle_Character.git">GitHub</a>.</p>
  
